@@ -1,0 +1,1 @@
+boa noite professor aurelio, só pra lembrar não estou conseguindo carregar no git o arquivo (shape_predictor_68_face_landmarks) devido ser muito grande. tenha um bom final de semana. abraço
